@@ -20,7 +20,7 @@ We created multiple different graphs to show the data in different ways. This is
   This browser does not support PDFs. Please download the PDF to view it: <a href="AnsQuartFiles/Anscombe Quartet Data Visualisation.pdf">Download PDF</a>
 </iframe>
 <h3>Interactive scatter</h3>
-<iframe src="AnsQuartFiles/anscombe_plotly.html" width="100%" height="600px">
+<iframe src="AnsQuartFiles/anscombe_plotly.html" width="100%" height="300px">
   This browser does not support PDFs. Please download the PDF to view it: <a href="AnsQuartFiles/anscombe_plotly.html">Download the interactive graph</a>
 </iframe>
 
