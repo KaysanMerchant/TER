@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Projects
-output:
-    html_document:
-        css: custom-styles.css
+custom_css: /assets/css/custom-styles.css
 ---
+
+<link rel="stylesheet" href="{{ '/assets/css/custom-styles.css' | relative_url }}">
 
 <details>
 <summary>Anscombe's Quartet Analysis (Click to Expand)</summary>
