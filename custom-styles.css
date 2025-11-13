@@ -1,5 +1,7 @@
-#ANS {
+details {
     padding: 10px;
-    font-size: 24px
+    width: 100%;
+    background-color: lightgrey;
+    cursor: pointer;
 }
     

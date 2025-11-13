@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: post
 title: Projects
 output:
     html_document:
         css: "custom-styles.css"
 ---
 
-<details id="ANS">
+<details>
 <summary>Anscombe's Quartet Analysis (Click to Expand)</summary>
 
 <h3>Overview</h3>
