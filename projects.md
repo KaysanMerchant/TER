@@ -3,7 +3,7 @@ layout: post
 title: Projects
 output:
     html_document:
-        css: "custom-styles.css"
+        css: custom-styles.css
 ---
 
 <details>
