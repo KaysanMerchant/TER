@@ -69,5 +69,6 @@ Common tools include frequency tables, bar charts, and waffle charts. The guide 
 <h2>Theory</h2>
 
 The page concludes with suggested readings and supplementary materials on EDA, descriptive statistics, and practical introductions to exploratory techniques. These resources provide deeper theoretical grounding and practical examples for applying EDA effectively.
+<br>
 
 </details>
