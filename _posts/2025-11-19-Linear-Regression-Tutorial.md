@@ -9,7 +9,7 @@ date: 2025-11-19
 
 This post will go over Mr. Andrade's linear regression document and how I fixed the error within it.
 
-Forked Github Repository: [Lin_Reg_Fix]{https://github.com/KaysanMerchant/Lin_Reg_Fix}
+Forked Github Repository: [Lin_Reg_Fix](https://github.com/KaysanMerchant/Lin_Reg_Fix)
 
 The following repository is forked from Mr. Andrade, with 3 commits fixing the linear regression tutorial document in the repository.
 
