@@ -2,6 +2,8 @@ theme: minima
 title: Kaysan Merchant
 description: The website dedicated to the work done by Kaysan merchant in Mr. Andrade Computer Engineering, Robotics and Control Systems course taken in Grade 11.
 
+baseurl: "/TER"
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
