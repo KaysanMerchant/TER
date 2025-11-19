@@ -33,3 +33,44 @@ Fixes:
 * Different graphing methods to produce the same or similar graphs
 * Replacing the libraries within `requirements.txt` with the correct libraries(updated)
     * Specifying the version of the libraries within `requirements.txt`
+
+# Homework
+
+## 7. Predicting House Prices Using a Log-Transformed Linear Model
+
+After finishing the basic linear regression example, we move on to a new dataset, **`log_regression_example.csv`**, which explores how house size relates to price.
+
+### Why a Simple Linear Model Didn’t Work
+When we initially plotted **Price vs. Size**, the pattern wasn’t linear — prices increased more sharply for larger homes.  
+To correct this, we applied a **log transformation** to the Size variable. This straightened the relationship and allowed us to fit a meaningful linear regression model.
+
+### Final Regression Model
+After transforming the predictor, the fitted model becomes:
+
+$$
+\text{Price} = 0.2089 \times \log(\text{Size}) - 0.0273
+$$
+
+- **Size** is measured in square meters  
+- **Price** is expressed in millions of dollars  
+
+### Example: Predicting the Price of a 1000 m² House
+
+$$
+\text{Price}(1000) = 0.2089 \times \log(1000) - 0.0273 \approx 1.42 \text{ million}
+$$
+
+### Using the Model for Your Own Predictions
+Simply plug your home’s size into the equation:
+
+$$
+\text{Price}(\text{your size}) = 0.2089 \times \log(\text{your size}) - 0.0273
+$$
+
+This gives a quick estimate of market value based on the log-adjusted size relationship.
+
+## Property Size vs. Price
+
+The following scatter plot shows a funny distribution that shows a hidden message within the data provided:
+
+![Property Size vs. Price]({{ '/images/lin_reg_img/img-2025-11-19-15-22-05.png' | relative_url }})
