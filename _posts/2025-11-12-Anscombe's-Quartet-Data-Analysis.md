@@ -20,6 +20,3 @@ We created multiple different graphs to show the data in different ways. This is
 <iframe src="{{ '/AnsQuartFiles/anscombe_plotly.html' | relative_url }}" width="100%" height="350px">
   This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/AnsQuartFiles/anscombe_plotly.html' | relative_url }}">Download the interactive graph</a>
 </iframe>
-
-# Jupyter file
-Download my Jupyter file directly here: <a href="{{ '/AnsQuartFiles/AnscombeQuartetDataVisualisation.ipynb' | relative_url }}">Download .ipynb</a>
