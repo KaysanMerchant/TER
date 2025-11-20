@@ -47,25 +47,25 @@ To correct this, we applied a **log transformation** to the Size variable. This 
 ### Final Regression Model
 After transforming the predictor, the fitted model becomes:
 
-$$
-\text{Price} = 0.2089 \cdot \log(\text{Size}) - 0.0273
-$$
+<div style="text-align: center; margin: 20px 0;">
+  <p>Price = 0.2089 &middot; log(Size) - 0.0273</p>
+</div>
 
 - **Size** is measured in square meters  
 - **Price** is expressed in millions of dollars  
 
 ### Example: Predicting the Price of a 1000 m² House
 
-$$
-\text{Price}(1000) = 0.2089 \cdot \log(1000) - 0.0273 \approx 1.42~\text{million}
-$$
+<div style="text-align: center; margin: 20px 0;">
+  <p>Price(1000) = 0.2089 &middot; log(1000) - 0.0273 &asymp; 1.42 million</p>
+</div>
 
 ### Using the Model for Your Own Predictions
 Simply plug your home’s size into the equation:
 
-$$
-\text{Price}(\text{your size}) = 0.2089 \cdot \log(\text{your size}) - 0.0273
-$$
+<div style="text-align: center; margin: 20px 0;">
+  <p>Price(your size) = 0.2089 &middot; log(your size) - 0.0273</p>
+</div>
 
 This gives a quick estimate of market value based on the log-adjusted size relationship.
 
