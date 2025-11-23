@@ -79,7 +79,7 @@ plt.show()
 
 
     
-![png](../images/AutoDataImages/output_3_0.png)
+<img src="{{ '/images/AutoDataImages/output_3_0.png' | relative_url }}" alt="MPG vs Horsepower scatter with regression line" style="max-width:100%;height:auto;" />
     
 
 
@@ -99,7 +99,7 @@ plt.show()
 
 
     
-![png](../images/AutoDataImages/output_5_0.png)
+<img src="{{ '/images/AutoDataImages/output_5_0.png' | relative_url }}" alt="Regression diagnostics plots" style="max-width:100%;height:auto;" />
     
 
 
@@ -125,7 +125,7 @@ plt.show()
 
 
     
-![png](../images/AutoDataImages/output_7_1.png)
+<img src="{{ '/images/AutoDataImages/output_7_1.png' | relative_url }}" alt="QQ plot of residuals" style="max-width:100%;height:auto;" />
     
 
 
@@ -151,7 +151,7 @@ plt.show()
 
 
     
-![png](../images/AutoDataImages/output_9_0.png)
+<img src="{{ '/images/AutoDataImages/output_9_0.png' | relative_url }}" alt="Residuals vs fitted values" style="max-width:100%;height:auto;" />
     
 
 
@@ -324,7 +324,7 @@ plt.show()
 
 
     
-![png](../images/AutoDataImages2/output_3_1.png)
+<img src="{{ '/images/AutoDataImages2/output_3_1.png' | relative_url }}" alt="Scatterplot matrix" style="max-width:100%;height:auto;" />
     
 
 
@@ -511,7 +511,7 @@ print(high_leverage[['hat_diag','student_resid','cooks_d']].head())
 
 
     
-![png](../images/AutoDataImages2/output_9_0.png)
+<img src="{{ '/images/AutoDataImages2/output_9_0.png' | relative_url }}" alt="Residuals vs Fitted (multiple regression)" style="max-width:100%;height:auto;" />
     
 
 
@@ -521,13 +521,13 @@ print(high_leverage[['hat_diag','student_resid','cooks_d']].head())
 
 
     
-![png](../images/AutoDataImages2/output_9_2.png)
+<img src="{{ '/images/AutoDataImages2/output_9_2.png' | relative_url }}" alt="Scale-Location plot" style="max-width:100%;height:auto;" />
     
 
 
 
     
-![png](../images/AutoDataImages2/output_9_3.png)
+<img src="{{ '/images/AutoDataImages2/output_9_3.png' | relative_url }}" alt="Influence plot (Cook's distance vs leverage)" style="max-width:100%;height:auto;" />
     
 
 
@@ -537,7 +537,7 @@ print(high_leverage[['hat_diag','student_resid','cooks_d']].head())
 
 
     
-![png](../images/AutoDataImages2/output_9_5.png)
+<img src="{{ '/images/AutoDataImages2/output_9_5.png' | relative_url }}" alt="Influence diagnostics image" style="max-width:100%;height:auto;" />
     
 
 
