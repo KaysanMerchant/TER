@@ -7,7 +7,7 @@ date: 2025-11-21
 
 # Introduction
 
-This analysis explores the relationship between automobile fuel efficiency (mpg) and horsepower using simple linear regression techniques. By fitting a model, visualizing the data, and examining diagnostic plots, we assess how well horsepower predicts mpg and whether the assumptions of linear regression are satisfied. <a href="#multiple-regression-correlations-diagnostics-interactions-and-transformationsquestion-9">**Question 9 is located below this question.**</a>
+This analysis explores the relationship between automobile fuel efficiency (mpg) and horsepower using simple linear regression techniques. By fitting a model, visualizing the data, and examining diagnostic plots, we assess how well horsepower predicts mpg and whether the assumptions of linear regression are satisfied. <a href="#multiple-regression-correlations-diagnostics-interactions-and-transformationsquestion-9">**Question 9 is located below this question(Click here).**</a>
 
 # Question 8
 
