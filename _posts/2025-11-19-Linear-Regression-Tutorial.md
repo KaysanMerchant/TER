@@ -73,4 +73,4 @@ This gives a quick estimate of market value based on the log-adjusted size relat
 
 The following scatter plot shows a funny distribution that shows a hidden message within the data provided:
 
-![Property Size vs. Price]({{ '/images/lin_reg_img/img-2025-11-19-15-22-05.png' | relative_url }})
+<img src="{{ '/images/lin_reg_img/img-2025-11-19-15-22-05.png' | relative_url }}" alt="Property Size vs. Price" style="max-width:100%;height:auto;" />
